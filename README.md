@@ -22,6 +22,7 @@ This will take you to the [distributions page on the Jasmine project](https://gi
 You click on it, and here's what caused me a bit of a what-the-heck moment.  Instead of downloading the jasmine standalone, it takes you to [this page](https://github.com/pivotal/jasmine/blob/master/dist/jasmine-standalone-2.0.0.zip
 ), which doesn't have anything resembling a "Download this here" button.
 
-What you have somehow magically figure out is that in order to downwnload the skeleton, you have to press the 'View Raw' link.  
+What you have somehow magically figure out is that in order to downwnload the standalone, you have to press the ['View Raw'](/pivotal/jasmine/blob/master/dist/jasmine-standalone-2.0.0.zip?raw=true) link.  
+
 
 Not very user friendly at all, especially since this 'downloading the zip' way is meant for people who don't know how to use the arcane magic of github. 
