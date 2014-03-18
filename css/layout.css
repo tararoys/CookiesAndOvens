@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+}
+
+.bakery .row {
+  margin-left: -20px;
+}
+
+.bakery .span6 {
+  padding-left: 10px;
+  margin-left: 10px;
+  max-width: 50%;
+  height: 100%;
+}
+
+.bakery .span6:last-child {
+  border-left: 1px solid #ddd;
+}
+
+.bakery table#oven {
+  background-color: #bbb;
+  padding: 5px;
+  margin: 5px;
+}
+
+.bakery table#oven td {
+  padding: 8px;
+  border-bottom: 2px solid;
+}
+
+.bakery table#oven td.raw {
+  background-color: red;
+  color: white;
+}
+
+.bakery table#oven td.still_gooey {
+  background-color: yellow;
+  color: black;
+}
+
+.bakery table#oven td.just_right {
+  background-color: green;
+  color: white;
+}
+
+.bakery table#oven td.crispy {
+  background-color: black;
+  color: white;
+}
+
+.bakery table#oven span.status {
+  margin-left: 5px;
+  font-size: 0.8em;
+  font-style: italic;
+}
